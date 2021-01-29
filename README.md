@@ -2,6 +2,10 @@
 
 > [Jetstream with Inertia stack](https://jetstream.laravel.com/2.x/stacks/inertia.html)
 
+## TL;DR
+
+> [I want it FAST!!!1](Lazy.md) (still need [Prerequisites](#prerequisites))
+
 ## Prerequisites
 
 - PHP 7.4
