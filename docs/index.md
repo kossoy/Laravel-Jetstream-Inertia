@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-> [I want it FAST!!!1](Lazy.md) (still need [Prerequisites](#prerequisites))
+> [I want it FAST!!!1](https://gist.github.com/kossoy/c7a937ac3335f4ab879b96bffeef1cbd#file-tldr-md) (still need [Prerequisites](#prerequisites))
 
 ## Prerequisites
 
