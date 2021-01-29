@@ -11,7 +11,7 @@
 - PHP 7.4
 - Composer
 - Node 12.18
-- Facebook and Google developer app/project set up
+- Facebook and Google developer app/project set up [one](https://developers.facebook.com/docs/facebook-login/web), [two](https://developers.google.com/identity/sign-in/web/sign-in#create_authorization_credentials)
 
 ## Create Laravel project
 
